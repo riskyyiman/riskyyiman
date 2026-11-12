@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" role="img" aria-label="Porsi bahasa utama pada enam proyek pilihan: TypeScript 4 dari 6, Python 2 dari 6">
+  <style>
+    .track { stroke: #D0D7DE; }
+    .main  { fill: #1F2937; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .sub   { fill: #57606A; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .track { stroke: #30363D; }
+      .main  { fill: #E6EDF3; }
+      .sub   { fill: #8B949E; }
+    }
+  </style>
+
+  <!-- TypeScript: 4 dari 6 proyek = 66,7% ; keliling r=55 -> 345,58 ; isi 230,38 -->
+  <g>
+    <circle class="track" cx="150" cy="95" r="55" fill="none" stroke-width="12"/>
+    <circle cx="150" cy="95" r="55" fill="none" stroke="#C9A227" stroke-width="12" stroke-dasharray="230.38 115.19" transform="rotate(-90 150 95)"/>
+    <text class="main" x="150" y="104" text-anchor="middle" font-size="26" font-weight="700">67%</text>
+    <text class="main" x="150" y="188" text-anchor="middle" font-size="17" font-weight="600">TypeScript</text>
+    <text class="sub" x="150" y="208" text-anchor="middle" font-size="12">4 dari 6 proyek pilihan</text>
+  </g>
+
+  <!-- Python: 2 dari 6 proyek = 33,3% ; isi 115,19 -->
+  <g>
+    <circle class="track" cx="450" cy="95" r="55" fill="none" stroke-width="12"/>
+    <circle cx="450" cy="95" r="55" fill="none" stroke="#C9A227" stroke-width="12" stroke-dasharray="115.19 230.38" transform="rotate(-90 450 95)"/>
+    <text class="main" x="450" y="104" text-anchor="middle" font-size="26" font-weight="700">33%</text>
+    <text class="main" x="450" y="188" text-anchor="middle" font-size="17" font-weight="600">Python</text>
+    <text class="sub" x="450" y="208" text-anchor="middle" font-size="12">2 dari 6 proyek pilihan</text>
+  </g>
+</svg>
