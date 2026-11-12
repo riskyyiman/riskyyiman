@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Risky%20Iman&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Web%20Developer%20%E2%80%A2%20Data%20Enthusiast&descSize=18&descAlign=50&descAlignY=58&descColor=9fd3e6" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1500&color=4FC3F7&center=true&vCenter=true&width=600&height=40&lines=Senang%20membangun%20aplikasi%20web%20modern;Tertarik%20mengeksplorasi%20data%20%26%20machine%20learning;Berbasis%20di%20Kudus%2C%20Jawa%20Tengah" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1500&color=4FC3F7&center=true&vCenter=true&width=600&height=40&lines=Senang%20membangun%20aplikasi%20web%20modern;Tertarik%20mengeksplorasi%20data%20%26%20machine%20learning;Berbasis%20di%20Purwokerto%2C%20Jawa%20Tengah" alt="Typing SVG" />
 </p>
 
 <p align="center">
