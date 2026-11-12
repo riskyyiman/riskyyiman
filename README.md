@@ -1,19 +1,14 @@
 <div align="center">
 
-<sub>━━━━━━━━━━━━━━  Press Start  ━━━━━━━━━━━━━━</sub>
-
-# Risky Iman Lael Prasetio
-
-**Web Developer · Data Enthusiast**
-
-*Membangun aplikasi web yang rapi dan eksperimen data yang terukur.*
+<img src="assets/banner.svg" alt="Risky Iman Lael Prasetio — Web Developer dan Data Enthusiast" width="100%" />
 
 <br>
 
-<a href="#character-profile--profil"><img src="https://img.shields.io/badge/PROFILE-0B1F3A?style=for-the-badge" alt="Profile" /></a>
-<a href="#skill-tree--bidang-keahlian"><img src="https://img.shields.io/badge/SKILL_TREE-0B1F3A?style=for-the-badge" alt="Skill Tree" /></a>
-<a href="#quest-log--proyek-pilihan"><img src="https://img.shields.io/badge/QUEST_LOG-0B1F3A?style=for-the-badge" alt="Quest Log" /></a>
-<a href="#join-the-party--kontak"><img src="https://img.shields.io/badge/JOIN_THE_PARTY-C9A227?style=for-the-badge" alt="Join the Party" /></a>
+<a href="#profil"><img src="https://img.shields.io/badge/PROFIL-0B1F3A?style=for-the-badge" alt="Profil" /></a>
+<a href="#bidang-keahlian"><img src="https://img.shields.io/badge/KEAHLIAN-0B1F3A?style=for-the-badge" alt="Keahlian" /></a>
+<a href="#proyek-pilihan"><img src="https://img.shields.io/badge/PROYEK-0B1F3A?style=for-the-badge" alt="Proyek" /></a>
+<a href="#perangkat-teknis"><img src="https://img.shields.io/badge/TEKNOLOGI-0B1F3A?style=for-the-badge" alt="Teknologi" /></a>
+<a href="#kontak"><img src="https://img.shields.io/badge/KONTAK-C9A227?style=for-the-badge" alt="Kontak" /></a>
 
 <br><br>
 
@@ -25,21 +20,36 @@
 
 <br>
 
-## Character Profile · Profil
+## Profil
 
-Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Tengah, Indonesia. Pekerjaan saya berfokus pada dua hal: membangun aplikasi web yang andal dengan **TypeScript**, dan mengolah data dengan **Python** untuk menjawab pertanyaan yang terukur, seperti analisis sentimen dan seleksi fitur menggunakan algoritma genetika.
+Halo, saya Risky. Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Tengah, Indonesia. Pekerjaan saya berfokus pada dua hal: membangun aplikasi web yang andal dengan **TypeScript**, dan mengolah data dengan **Python** untuk menjawab pertanyaan yang terukur, seperti analisis sentimen dan seleksi fitur menggunakan algoritma genetika.
 
-| Atribut | Detail |
-| :-- | :-- |
-| **Class** | Web Developer |
-| **Subclass** | Data Enthusiast |
-| **Base** | Jawa Tengah, Indonesia |
-| **Main Weapon** | TypeScript, Python |
-| **Current Quest** | Pengembangan aplikasi web full-stack dan pendalaman *machine learning* |
+<table>
+  <tr>
+    <td width="30%"><b>Peran</b></td>
+    <td>Web Developer</td>
+  </tr>
+  <tr>
+    <td><b>Peminatan</b></td>
+    <td>Data Enthusiast</td>
+  </tr>
+  <tr>
+    <td><b>Lokasi</b></td>
+    <td>Jawa Tengah, Indonesia</td>
+  </tr>
+  <tr>
+    <td><b>Bahasa Utama</b></td>
+    <td>TypeScript, Python</td>
+  </tr>
+  <tr>
+    <td><b>Fokus Saat Ini</b></td>
+    <td>Pengembangan aplikasi web full-stack dan pendalaman <i>machine learning</i></td>
+  </tr>
+</table>
 
 <br>
 
-## Skill Tree · Bidang Keahlian
+## Bidang Keahlian
 
 | Bidang | Cakupan | Teknologi |
 | :-- | :-- | :-- |
@@ -49,7 +59,7 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Quest Log · Proyek Pilihan
+## Proyek Pilihan
 
 | Proyek | Kategori | Ringkasan | Teknologi |
 | :-- | :-- | :-- | :-- |
@@ -62,15 +72,34 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Inventory · Perangkat Teknis
+## Perangkat Teknis
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,vscode&perline=12" alt="perangkat teknis" />
-</p>
+<div align="center">
+
+<img src="assets/tech-rings.svg" alt="Porsi bahasa utama pada enam proyek pilihan: TypeScript 4 dari 6, Python 2 dari 6" width="600" />
+
+<sub>Lingkaran di atas menunjukkan porsi bahasa utama pada enam proyek di bagian Proyek Pilihan.</sub>
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="center"><sub><b>Frontend</b></sub></td>
+    <td align="center"><sub><b>Backend & Basis Data</b></sub></td>
+    <td align="center"><sub><b>Alat Kerja</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" alt="frontend" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,nodejs,postgres,supabase" alt="backend dan basis data" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="alat kerja" /></td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
-## Player Code · Prinsip Kerja
+## Prinsip Kerja
 
 <details>
 <summary><b>Lihat selengkapnya</b></summary>
@@ -86,17 +115,30 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Stats · Aktivitas
+## Aktivitas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riskyyiman&background=0D1117&border=30363D&ring=C9A227&fire=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=C9A227&sideLabels=8B949E&dates=8B949E&stroke=30363D&border_radius=6" alt="aktivitas kontribusi" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=riskyyiman&show_icons=true&hide_rank=false&custom_title=Statistik+GitHub&bg_color=0B1F3A&title_color=C9A227&text_color=E6EDF3&icon_color=C9A227&border_color=1F2937" alt="statistik github" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskyyiman&layout=donut&langs_count=6&custom_title=Bahasa+Terbanyak&bg_color=0B1F3A&title_color=C9A227&text_color=E6EDF3&border_color=1F2937" alt="bahasa terbanyak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=riskyyiman&background=0B1F3A&border=1F2937&ring=C9A227&fire=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=C9A227&sideLabels=8B949E&dates=8B949E&stroke=1F2937&border_radius=6" alt="aktivitas kontribusi" />
+
+</div>
 
 <br>
 
-## Join the Party · Kontak
+## Kontak
 
-Open to co-op. Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hubungi saya melalui:
+Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hubungi saya melalui:
 
 <p>
   <a href="https://github.com/riskyyiman"><img src="https://img.shields.io/badge/GitHub-riskyyiman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -107,10 +149,6 @@ Open to co-op. Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hub
   -->
 </p>
 
-<div align="center">
+<hr>
 
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-
-<sub>Thanks for playing. · Terima kasih telah berkunjung.</sub>
-
-</div>
+<p align="center"><sub>Terima kasih telah berkunjung.</sub></p>
