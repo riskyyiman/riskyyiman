@@ -1,93 +1,104 @@
-<!-- ===================== TITLE SCREEN ===================== -->
+<div align="center">
+
+# Risky Iman Lael Prasetio
+
+**Web Developer · Data Enthusiast**
+
+*Membangun aplikasi web yang rapi dan eksperimen data yang terukur.*
+
+<br>
+
+<a href="#profil"><img src="https://img.shields.io/badge/PROFIL-0B1F3A?style=for-the-badge" alt="Profil" /></a>
+<a href="#bidang-keahlian"><img src="https://img.shields.io/badge/KEAHLIAN-0B1F3A?style=for-the-badge" alt="Keahlian" /></a>
+<a href="#proyek-pilihan"><img src="https://img.shields.io/badge/PROYEK-0B1F3A?style=for-the-badge" alt="Proyek" /></a>
+<a href="#kontak"><img src="https://img.shields.io/badge/KONTAK-C9A227?style=for-the-badge" alt="Kontak" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=riskyyiman&label=Profile+Views&color=C9A227&labelColor=1F2937&style=flat-square" alt="views" />
+<img src="https://img.shields.io/github/followers/riskyyiman?label=Followers&color=C9A227&labelColor=1F2937&style=flat-square" alt="followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/riskyyiman&query=$.public_repos&label=Repositories&color=C9A227&labelColor=1F2937&style=flat-square" alt="repositories" />
+
+</div>
+
+<br>
+
+## Profil
+
+Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Tengah, Indonesia. Pekerjaan saya berfokus pada dua hal: membangun aplikasi web yang andal dengan **TypeScript**, dan mengolah data dengan **Python** untuk menjawab pertanyaan yang terukur, seperti analisis sentimen dan seleksi fitur menggunakan algoritma genetika.
+
+> **Fokus saat ini:** pengembangan aplikasi web full-stack dan pendalaman *machine learning*.
+
+<br>
+
+## Bidang Keahlian
+
+| Bidang | Cakupan | Teknologi |
+| :-- | :-- | :-- |
+| **Pengembangan Web** | Sistem informasi dan situs web institusi | TypeScript, React, Next.js, Tailwind CSS |
+| **Analisis Data & Machine Learning** | Analisis sentimen, seleksi fitur, pemodelan data | Python |
+| **Backend & Basis Data** | Layanan server dan penyimpanan data | Node.js, PostgreSQL, Supabase |
+
+<br>
+
+## Proyek Pilihan
+
+| Proyek | Kategori | Ringkasan | Teknologi |
+| :-- | :-- | :-- | :-- |
+| [**breast-cancer-feature-selection-ga**](https://github.com/riskyyiman/breast-cancer-feature-selection-ga) | Machine Learning | Seleksi fitur pada data kanker payudara menggunakan algoritma genetika | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**analisis-sentimen**](https://github.com/riskyyiman/analisis-sentimen) | Aplikasi Web | Antarmuka aplikasi analisis sentimen | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**server-analisis-sentimen**](https://github.com/riskyyiman/server-analisis-sentimen) | Layanan Backend | Server pemrosesan untuk analisis sentimen | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**SIAKAD-SDIT-CITAMULIA**](https://github.com/riskyyiman/SIAKAD-SDIT-CITAMULIA) | Sistem Informasi | Sistem informasi akademik sekolah dasar | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**mts-raudhotut-tholibin**](https://github.com/riskyyiman/mts-raudhotut-tholibin) | Situs Institusi | Situs web MTs Raudhotut Tholibin | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**ramadhan-tracker**](https://github.com/riskyyiman/ramadhan-tracker) | Aplikasi Web | Aplikasi pencatat ibadah Ramadhan | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+
+<br>
+
+## Perangkat Teknis
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=760&height=50&lines=PLAYER+1+READY;INSERT+COIN+TO+START;LOADING+NEW+SKILLS..." alt="title" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,vscode&perline=12" alt="perangkat teknis" />
 </p>
 
+<br>
+
+## Prinsip Kerja
+
+<details>
+<summary><b>Lihat selengkapnya</b></summary>
+
+<br>
+
+- **Rapi dan terdokumentasi.** Kode ditulis agar mudah dibaca dan dilanjutkan orang lain.
+- **Berbasis data.** Keputusan teknis didukung pengukuran, bukan asumsi.
+- **Bertahap.** Pekerjaan dipecah menjadi iterasi kecil yang bisa diuji dan dievaluasi.
+- **Terbuka untuk belajar.** Teknologi baru dipelajari dan dipakai bila memang menyelesaikan masalah.
+
+</details>
+
+<br>
+
+## Aktivitas
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PRESS-START-00FF9C?style=for-the-badge&labelColor=0D1117" alt="press start" />
+  <img src="https://streak-stats.demolab.com?user=riskyyiman&background=0D1117&border=30363D&ring=C9A227&fire=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=C9A227&sideLabels=8B949E&dates=8B949E&stroke=30363D&border_radius=6" alt="aktivitas kontribusi" />
 </p>
 
-```text
-╔══════════════════════════════════════════════╗
-║ PLAYER 1 : RISKY IMAN LAEL PRASETIO          ║
-║ CLASS    : Web Developer / Data Mage         ║
-║ GUILD    : Kudus, Jawa Tengah                ║
-║ STATUS   : ONLINE - Leveling Up              ║
-╚══════════════════════════════════════════════╝
-```
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riskyyiman&label=PLAYERS+VISITED&color=00FF9C&style=flat-square" alt="visits" />
-  <img src="https://img.shields.io/github/followers/riskyyiman?label=ALLIES&style=flat-square&color=FFD700&labelColor=0D1117" alt="followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/riskyyiman&query=$.public_repos&label=QUESTS+CREATED&color=FF5555&style=flat-square&labelColor=0D1117" alt="repos" />
-</p>
+## Kontak
 
-<!-- ===================== LORE ===================== -->
-<h2 align="center">📜 CHARACTER LORE</h2>
+Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hubungi saya melalui:
 
-<p align="center">
-  Seorang <b>Web Developer</b> dan <b>Data Mage</b> dari Kudus, Jawa Tengah.<br>
-  Senjata utama: <b>TypeScript</b> untuk membangun aplikasi web, dan <b>Python</b> untuk eksperimen data<br>
-  seperti analisis sentimen dan seleksi fitur dengan algoritma genetika.
-</p>
-
-<!-- ===================== SKILL TREE ===================== -->
-<h2 align="center">🧙 SKILL TREE</h2>
-
-```text
-╔══════════════════════════════════════════════╗
-║ SKILL TREE                                   ║
-╠══════════════════════════════════════════════╣
-║ TypeScript  ███████░░░  LV.7                 ║
-║ Python      ███████░░░  LV.7                 ║
-║ React       ██████░░░░  LV.6                 ║
-║ Next.js     ██████░░░░  LV.6                 ║
-║ Supabase    █████░░░░░  LV.5                 ║
-║ Data / ML   █████░░░░░  LV.5                 ║
-╠══════════════════════════════════════════════╣
-║ NEXT UNLOCK : Machine Learning Mastery       ║
-╚══════════════════════════════════════════════╝
-```
-
-<!-- ===================== INVENTORY ===================== -->
-<h2 align="center">🎒 INVENTORY</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,vscode&perline=12" alt="inventory" />
-</p>
-
-<!-- ===================== QUEST LOG ===================== -->
-<h2 align="center">🗺️ QUEST LOG</h2>
-
-| Quest | Tipe | Misi | Senjata | Bintang |
-| :-- | :-- | :-- | :-- | :-- |
-| [**breast-cancer-feature-selection-ga**](https://github.com/riskyyiman/breast-cancer-feature-selection-ga) | ⚔️ Main Quest | Seleksi fitur data kanker payudara dengan algoritma genetika | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/riskyyiman/breast-cancer-feature-selection-ga?style=flat-square&color=FFD700&label=%E2%98%85) |
-| [**analisis-sentimen**](https://github.com/riskyyiman/analisis-sentimen) | ⚔️ Main Quest | Aplikasi analisis sentimen | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![stars](https://img.shields.io/github/stars/riskyyiman/analisis-sentimen?style=flat-square&color=FFD700&label=%E2%98%85) |
-| [**server-analisis-sentimen**](https://github.com/riskyyiman/server-analisis-sentimen) | 🛡️ Side Quest | Server backend untuk analisis sentimen | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/riskyyiman/server-analisis-sentimen?style=flat-square&color=FFD700&label=%E2%98%85) |
-| [**SIAKAD-SDIT-CITAMULIA**](https://github.com/riskyyiman/SIAKAD-SDIT-CITAMULIA) | 🏰 Raid | Sistem informasi akademik sekolah | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![stars](https://img.shields.io/github/stars/riskyyiman/SIAKAD-SDIT-CITAMULIA?style=flat-square&color=FFD700&label=%E2%98%85) |
-| [**mts-raudhotut-tholibin**](https://github.com/riskyyiman/mts-raudhotut-tholibin) | 🏰 Raid | Website MTs Raudhotut Tholibin | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![stars](https://img.shields.io/github/stars/riskyyiman/mts-raudhotut-tholibin?style=flat-square&color=FFD700&label=%E2%98%85) |
-| [**ramadhan-tracker**](https://github.com/riskyyiman/ramadhan-tracker) | 🛡️ Side Quest | Aplikasi pencatat ibadah Ramadhan | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![stars](https://img.shields.io/github/stars/riskyyiman/ramadhan-tracker?style=flat-square&color=FFD700&label=%E2%98%85) |
-
-<!-- ===================== PLAYER STATS ===================== -->
-<h2 align="center">🔥 DAILY STREAK</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=riskyyiman&background=0D1117&border=00FF9C&ring=00FF9C&fire=FF5555&currStreakNum=00FF9C&sideNums=FFD700&currStreakLabel=00FF9C&sideLabels=FFD700&dates=8B949E&stroke=00FF9C&border_radius=0" alt="streak" />
-</p>
-
-<!-- ===================== SAVE POINT ===================== -->
-<h2 align="center">💾 SAVE POINT</h2>
-
-<p align="center">
+<p>
   <a href="https://github.com/riskyyiman"><img src="https://img.shields.io/badge/GitHub-riskyyiman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Hapus tanda komentar lalu isi dengan link milikmu:
+  <!-- Hapus tanda komentar lalu isi dengan data milikmu:
   <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
 </p>
 
-<!-- ===================== GAME OVER? ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=760&height=40&lines=GAME+OVER%3F+NOT+YET.;INSERT+COIN+TO+CONTINUE..." alt="game over" />
-</p>
+<hr>
+
+<p align="center"><sub>Terima kasih telah berkunjung.</sub></p>
