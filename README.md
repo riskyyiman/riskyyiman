@@ -23,7 +23,7 @@
 <h2 align="center">👋 Hai, Saya Risky!</h2>
 
 <p align="center">
-  Web developer & penggemar data dari <b>Purwokertoo0</b>.<br/>
+  Web developer & ai enthusiast dari <b>Purwokertooo</b>.<br/>
   Suka membangun web dengan <b>TypeScript</b> dan mengolah data dengan <b>Python</b><br/>
   (analisis sentimen, algoritma genetika, dan eksperimen lainnya 🧬).
 </p>
