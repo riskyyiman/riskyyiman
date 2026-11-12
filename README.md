@@ -1,5 +1,7 @@
 <div align="center">
 
+<sub>━━━━━━━━━━━━━━  Press Start  ━━━━━━━━━━━━━━</sub>
+
 # Risky Iman Lael Prasetio
 
 **Web Developer · Data Enthusiast**
@@ -8,10 +10,10 @@
 
 <br>
 
-<a href="#profil"><img src="https://img.shields.io/badge/PROFIL-0B1F3A?style=for-the-badge" alt="Profil" /></a>
-<a href="#bidang-keahlian"><img src="https://img.shields.io/badge/KEAHLIAN-0B1F3A?style=for-the-badge" alt="Keahlian" /></a>
-<a href="#proyek-pilihan"><img src="https://img.shields.io/badge/PROYEK-0B1F3A?style=for-the-badge" alt="Proyek" /></a>
-<a href="#kontak"><img src="https://img.shields.io/badge/KONTAK-C9A227?style=for-the-badge" alt="Kontak" /></a>
+<a href="#character-profile--profil"><img src="https://img.shields.io/badge/PROFILE-0B1F3A?style=for-the-badge" alt="Profile" /></a>
+<a href="#skill-tree--bidang-keahlian"><img src="https://img.shields.io/badge/SKILL_TREE-0B1F3A?style=for-the-badge" alt="Skill Tree" /></a>
+<a href="#quest-log--proyek-pilihan"><img src="https://img.shields.io/badge/QUEST_LOG-0B1F3A?style=for-the-badge" alt="Quest Log" /></a>
+<a href="#join-the-party--kontak"><img src="https://img.shields.io/badge/JOIN_THE_PARTY-C9A227?style=for-the-badge" alt="Join the Party" /></a>
 
 <br><br>
 
@@ -23,15 +25,21 @@
 
 <br>
 
-## Profil
+## Character Profile · Profil
 
 Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Tengah, Indonesia. Pekerjaan saya berfokus pada dua hal: membangun aplikasi web yang andal dengan **TypeScript**, dan mengolah data dengan **Python** untuk menjawab pertanyaan yang terukur, seperti analisis sentimen dan seleksi fitur menggunakan algoritma genetika.
 
-> **Fokus saat ini:** pengembangan aplikasi web full-stack dan pendalaman *machine learning*.
+| Atribut | Detail |
+| :-- | :-- |
+| **Class** | Web Developer |
+| **Subclass** | Data Enthusiast |
+| **Base** | Jawa Tengah, Indonesia |
+| **Main Weapon** | TypeScript, Python |
+| **Current Quest** | Pengembangan aplikasi web full-stack dan pendalaman *machine learning* |
 
 <br>
 
-## Bidang Keahlian
+## Skill Tree · Bidang Keahlian
 
 | Bidang | Cakupan | Teknologi |
 | :-- | :-- | :-- |
@@ -41,7 +49,7 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Proyek Pilihan
+## Quest Log · Proyek Pilihan
 
 | Proyek | Kategori | Ringkasan | Teknologi |
 | :-- | :-- | :-- | :-- |
@@ -54,7 +62,7 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Perangkat Teknis
+## Inventory · Perangkat Teknis
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,vscode&perline=12" alt="perangkat teknis" />
@@ -62,7 +70,7 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Prinsip Kerja
+## Player Code · Prinsip Kerja
 
 <details>
 <summary><b>Lihat selengkapnya</b></summary>
@@ -78,7 +86,7 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Aktivitas
+## Stats · Aktivitas
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=riskyyiman&background=0D1117&border=30363D&ring=C9A227&fire=C9A227&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=C9A227&sideLabels=8B949E&dates=8B949E&stroke=30363D&border_radius=6" alt="aktivitas kontribusi" />
@@ -86,9 +94,9 @@ Saya seorang pengembang web dan penggemar analisis data yang berbasis di Jawa Te
 
 <br>
 
-## Kontak
+## Join the Party · Kontak
 
-Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hubungi saya melalui:
+Open to co-op. Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hubungi saya melalui:
 
 <p>
   <a href="https://github.com/riskyyiman"><img src="https://img.shields.io/badge/GitHub-riskyyiman-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -99,6 +107,10 @@ Terbuka untuk diskusi, kolaborasi, dan peluang kerja. Silakan hubungi saya melal
   -->
 </p>
 
-<hr>
+<div align="center">
 
-<p align="center"><sub>Terima kasih telah berkunjung.</sub></p>
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+
+<sub>Thanks for playing. · Terima kasih telah berkunjung.</sub>
+
+</div>
