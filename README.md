@@ -2,10 +2,6 @@
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1500&color=4FC3F7&center=true&vCenter=true&width=650&height=45&lines=Risky%20Iman%20%E2%80%A2%20Web%20Developer;Menuju%20Gen%20AI%20Engineer;TypeScript%20untuk%20web%2C%20Python%20untuk%20AI;Berbasis%20di%20Purwokerto%2C%20Jawa%20Tengah" alt="Risky Iman - Web Developer menuju Gen AI Engineer" />
-</p>
-
 <div align="center">
 
   <a href="https://github.com/riskyyiman">
@@ -44,20 +40,13 @@
 ## 👋 Hai, Saya Risky!
 
 <p align="center">
-  Web developer dari <b>Purwokerto</b> yang lagi serius menekuni jalur <b>Gen AI Engineer</b> 🤖<br/>
-  Sehari-hari ngoding <b>TypeScript</b> (bahasa utama di hampir semua repo saya) untuk membangun web full-stack<br/>
-  dengan React, Next.js, dan Supabase.
-</p>
-
-<p align="center">
-  Di sisi AI, saya berangkat dari <b>Python</b>: analisis sentimen dan algoritma genetika 🧬<br/>
-  Sekarang fokusnya ke <b>Generative AI</b>, yaitu menyatukan LLM dengan aplikasi web<br/>
-  supaya hasilnya produk yang benar-benar kepakai, bukan sekadar demo.
+  Web developer dari <b>Purwokerto</b> yang fokus di <b>Generative AI</b> dan <b>Web Development</b> 🤖<br/>
+  Membangun web full-stack dengan <b>TypeScript</b> dan aplikasi berbasis LLM dengan <b>Python</b>.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔭_Sedang_membangun-Web_Full--Stack-2c5364?style=flat-square" alt="Sedang membangun Web Full-Stack" />
-  <img src="https://img.shields.io/badge/🤖_Fokus-Generative_AI-4FC3F7?style=flat-square&labelColor=203a43" alt="Fokus Generative AI" />
+  <img src="https://img.shields.io/badge/🤖_Fokus-Generative_AI_&_Web_Development-4FC3F7?style=flat-square&labelColor=203a43" alt="Fokus Generative AI dan Web Development" />
   <img src="https://img.shields.io/badge/💬_Ngobrol_soal-TypeScript_•_Next.js_•_LLM-203a43?style=flat-square" alt="Ngobrol soal TypeScript, Next.js, LLM" />
 </p>
 
@@ -92,8 +81,8 @@
       width="49%"
     />
   </a><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=riskyyiman&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=2C5364&border_radius=12&title_color=4FC3F7&text_color=9FD3E6&bg_color=0F2027&custom_title=Bahasa%20Paling%20Sering%20Dipakai"
-    alt="Bahasa Paling Sering Dipakai"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=riskyyiman&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=2C5364&border_radius=12&title_color=4FC3F7&text_color=9FD3E6&bg_color=0F2027&custom_title=Senjata%20Sehari-hari"
+    alt="Senjata Sehari-hari"
     width="49%"
   />
 </p>
