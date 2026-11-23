@@ -81,7 +81,7 @@
       width="49%"
     />
   </a><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=riskyyiman&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=2C5364&border_radius=12&title_color=4FC3F7&text_color=9FD3E6&bg_color=0F2027&custom_title=Senjata%20Sehari-hari"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=riskyyiman&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=2C5364&border_radius=12&title_color=4FC3F7&text_color=9FD3E6&bg_color=0F2027&custom_title=My%20language"
     alt="my language"
     width="49%"
   />
